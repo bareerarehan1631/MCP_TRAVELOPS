@@ -1,0 +1,7 @@
+gradio
+pandas
+openpyxl
+pypdf
+pydantic
+groq
+mcp

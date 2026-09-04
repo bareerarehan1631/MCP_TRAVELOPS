@@ -1,7 +1,5 @@
-gradio
+streamlit>=1.38
 pandas
-openpyxl
 pypdf
-pydantic
 groq
-mcp
+openpyxl
